@@ -44,12 +44,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Engineering Manager with 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience,
+      my passion is driving high business impact by building/leading cross-functional teams to build scalable software systems.
 
 experiences:
     - role: Lead Developer
