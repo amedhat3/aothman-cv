@@ -59,7 +59,8 @@ experiences:
     - role: Engineering Manager
       time: March 2020 - Present
       company: Zalando SE, Berlin
-      link: "https://Zalando.de"
+      link: "https://www.linkedin.com/company/zalando/about/"
+      location: Berlin, Germany
       details: |
         Taking care of the Search and Browse Experience team, which responsible for 
         Zalando's catalog page, including (the autosuggest in the search bar, 
@@ -75,7 +76,9 @@ experiences:
           
     - role: Lead Engineer/Senior Engineer
       time: October 2017 - February 2020
-      company: Zalando SE, Berlin
+      company: Zalando SE
+      link: "https://www.linkedin.com/company/zalando/about/"
+      location: Berlin, Germany
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -84,9 +87,66 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Engineering Lead/Technical Product Owner
+      time: November 2015 - July 2017
+      company: Rakuten
+      link: "https://www.linkedin.com/company/rakuten/about/"
+      location: Tokyo, Japan
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+   - role: Engineering Lead/Technical Product Owner
+      time: November 2015 - July 2017
+      company: Rakuten
+      link: "https://www.linkedin.com/company/rakuten/about/"
+      location: Tokyo, Japan
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+    - role: Development Team Lead
+      time: December 2014 - November 2015
+      company: Rakuten, Tokyo
+      link: "https://www.linkedin.com/company/rakuten/about/"
+      location: Tokyo, Japan
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+    - role: Senior Software Engineer
+      time: January 2014 – December 2014
+      company: SolGen/Floating Apps
+      location: New York, USA (remote)
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+    
+    - role: Senior Software Engineer
+      time: January 2014 – December 2014
+      company: eSpace, 
+      location: Alexandria, Egypt
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
