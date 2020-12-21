@@ -32,7 +32,6 @@ sidebar:
         level: Native
 
     interests:
-
       - item: Chess
         link:
 
@@ -58,7 +57,7 @@ career-profile:
 experiences:
     - role: Engineering Manager
       time: March 2020 - Present
-      company: Zalando SE, Berlin
+      company: Zalando SE
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
@@ -117,7 +116,7 @@ experiences:
           
     - role: Development Team Lead
       time: December 2014 - November 2015
-      company: Rakuten, Tokyo
+      company: Rakuten
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
