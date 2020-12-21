@@ -119,7 +119,8 @@ experiences:
           
     - role: Senior Software Engineer
       time: January 2014 – December 2014
-      company: SolGen/Floating Apps
+      company: SolGen Labs/Floating Apps
+      link: "https://www.linkedin.com/company/solgen-labs/about"
       location: New York, USA (remote)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -133,7 +134,8 @@ experiences:
     
     - role: Senior Software Engineer
       time: January 2014 – December 2014
-      company: eSpace, 
+      company: eSpace 
+      link: 
       location: Alexandria, Egypt
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -143,6 +145,51 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+          
+   
+    - role: Founder/CEO
+      time: October 2012 – April 2013
+      company: SolGen Labs
+      link: "https://www.linkedin.com/company/solgen-labs/about"
+      location: Alexandria, Egypt
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    
+    - role: Senior Software Engineer
+      time: November 2011 – October 2012
+      company: Wireless Stars 
+      link: "https://www.linkedin.com/company/wireless-stars/about/"
+      location: Alexandria, Egypt
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+    - role: Software Engineer
+      time: January 2011 – November 2011
+
+      company: Egypt Development Center (EDC)/Mubasher.info 
+      link: "https://www.linkedin.com/company/mubasher-info/about/"
+      location: Cairo, Egypt
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    
 projects:
     title: Projects
     intro: >
