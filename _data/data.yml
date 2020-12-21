@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: contact@aothman.de
+    email: cv@aothman.de
     website: aothman.de #do not add http://
     linkedin: a-othman
     github: amedhat3
@@ -78,7 +78,7 @@ experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Work as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
+        Worked as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
         the traditional Search Engine features like (Spell-checker, synonyms, NER, strike search, etc) 
         also, building the new machine learning Search Engine which is built using deep learning methods based on historical click data.
         My responsiblities included the following:
@@ -95,13 +95,17 @@ experiences:
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Leading 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
+        which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies).
+        My responsiblities included the following:
+          - Desiging the system archeticture, choose the technologies and tools used for development
+          - Code reviews and operational excellence of the system
+          - Hiring as well as the teams development and training
+          - Close cooperation with product managers to refine the product backlog
+          - Provide high-level estimates and project roadmap plan with communicating it with stakeholders and top-level managers
+          - Together with the agile coaches, building the scrum of scrums development process to scale the development in multiple teams independently
+          - Accountable for delivering the project on time.
+
           
     - role: Development Team Lead
       time: December 2014 - November 2015
@@ -109,13 +113,9 @@ experiences:
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Lead a team of 5 international Software Engineers, and 3 quality engineers
+        - Responsible for facilitating the scrum process
+        - Coaching/mentoring team members
           
     - role: Senior Software Engineer
       time: January 2014 – December 2014
@@ -123,72 +123,53 @@ experiences:
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: New York, USA (remote)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-          
+        I wanted to continue to be an Entrepreneur but I wanted to go international, so this time instead of building my own product, 
+        I helped other startups to build their ideas, one of my clients was a company called Floating Apps now called Chili Piper.
+        One of the features I built with Chili Piper was an application using Java and Spring stack to integrate Google Apps with Salesforce.
     
     - role: Senior Software Engineer
       time: January 2014 – December 2014
       company: eSpace 
-      link: 
+      link: https://www.linkedin.com/company/espace/about/
       location: Alexandria, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Develop scalable web applications using Ruby on Rails, Python and Node.js 
+        - Lead and mentor other team members
           
-   
     - role: Founder/CEO
       time: October 2012 – April 2013
       company: SolGen Labs
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: Alexandria, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        With 3 other co-founders, we built a company from an idea to a complete product with a successful exit,
+        The prodcut called TaxiNTime which enable customer to order taxies from anywhere any time (Uber was not there yet).
+        My responsibilities included, developing the MVP, create a business plan and the company strategy, 
+        present the company to investors and startups competitions.
     
     - role: Senior Software Engineer
       time: November 2011 – October 2012
       company: Wireless Stars 
       link: "https://www.linkedin.com/company/wireless-stars/about/"
-      location: Alexandria, Egypt
+      location: Alexandria/Cairo, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Develop a location-based social network, with storing and analyzing big data to be able to make data-driven decisions regarding the product strategy and roadmap
           
     - role: Software Engineer
-      time: January 2011 – November 2011
-
+      time: March 2009 – November 2011
       company: Egypt Development Center (EDC)/Mubasher.info 
       link: "https://www.linkedin.com/company/mubasher-info/about/"
       location: Cairo, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Develop high scale web and fintech applications using Java and Spring stack, with Agile development process.
+          
+    - role: Teacher assistant
+      time: September 2007 - January 2008
+      company: Alexandria University 
+      link: "https://en.wikipedia.org/wiki/Alexandria_University"
+      location: Alexandria, Egypt
+      details: |
+        Teach computer science subjects like (Introduction to Programming, System Software, Distributed Systems, Artificial Intelligence).
     
 projects:
     title: Projects
