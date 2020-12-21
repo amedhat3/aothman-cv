@@ -65,7 +65,6 @@ experiences:
         Zalando's catalog page, including (the autosuggest in the search bar, 
         the filters and the filters values, the categories navigation tree, 
         the articles and outfits in the result).
-        The team is responsible for more than one high scale micro-services handling hundreds of thousands requests per second with a direct customer impact.
         My responsiblities includ the following:
           - hiring, team building, team members career development
           - building the team strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
@@ -79,13 +78,16 @@ experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Work as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
+        the traditional Search Engine features like (Spell-checker, synonyms, NER, strike search, etc) 
+        also, building the new machine learning Search Engine which is built using deep learning methods based on historical click data.
+        My responsiblities included the following:
+          - Hiring (reviewing applications, interviewing, review interviewers scorecards and giving them feedback, choosing the accepted candidates job grads)
+          - Organizing team workshops (architecture, process, team charter)
+          - Co-Organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
+          - Lead the development (hands-on) for the Search Engine features (traditional and machine learning)
+          - Coach and mentor team members
+          - Coordinate with the product managers to deliver user stories to the team
           
     - role: Engineering Technical Lead/Technical Product Owner
       time: November 2015 - July 2017
