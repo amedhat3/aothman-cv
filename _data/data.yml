@@ -48,7 +48,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Engineering Manager with 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience. 
       In love with people diversity and helping people grow and develop their skills.
@@ -171,6 +171,21 @@ experiences:
       details: |
         Teach computer science subjects like (Introduction to Programming, System Software, Distributed Systems, Artificial Intelligence).
     
+achievements:
+    title: Achievements
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    achievements:
+          - title: Velocity
+            link: "#hook"
+            tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+          - title: DevStudio
+            link: "#"
+            tagline: "B responsive website template designed to help web developers/designers market their services."
+
 projects:
     title: Projects
     intro: >
