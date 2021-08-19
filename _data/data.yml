@@ -72,19 +72,17 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Looking after the Search and Browse Experience team,  which is responsible for 
-        Zalando's catalog page, including (the autosuggest in the search bar, 
-        the filters and the filters values, the categories navigation tree, 
-        the articles and outfits in the result).
-        My responsibilities include the following:
+        Looking after the Search Experience team, Building Zalando’s product catalog page, including (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result). 
+        My responsibilities include the following
           - hiring, team building, team members career development (scaled the team from 2 to 5 Engineers, 1 more to hire)
           - building the team strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
-          - stakeholder Happiness, managing dependencies and expectations, building trust with all stakeholders
+          - stakeholder happiness, managing dependencies and expectations, building trust with the stakeholders
+          - collaboration with product and engineering leaders across the organization
           - the projects' successful delivery with a lean agile development process
-          - ensure operational excellence of the systems.
+          - ensure operational excellence of the systems
           - Tech stack: Scala, Elasticsearch, Kubernetes, AWS
           
-    - role: Lead Engineer/Senior Engineer
+    - role: Engineer Lead
       time: October 2017 - February 2020
       years: 2 years and 4 months
       company: Zalando SE
@@ -100,10 +98,10 @@ leadership_experiences:
           - co-organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
           - lead the development (hands-on) for the Search Engine features (traditional and machine learning)
           - coach and mentor team members
-          - coordinate with the product managers to write user stories to the team.
-          - Tech stack: Scala, Lucene, Rest APIs
+          - collaboration with the product managers to build the team roadmap
+          - tech stack: Scala, Lucene, Rest APIs, PyTorch, Sagemaker.
           
-    - role: Engineering Technical Lead/Technical Product Owner
+    - role: Engineering Lead/Technical Product Owner
       time: November 2015 - July 2017
       years: 1 year and 8 months
       company: Rakuten
@@ -119,7 +117,8 @@ leadership_experiences:
           - close cooperation with product managers to refine the product backlog
           - provide high-level estimates and project roadmap plan with communicating it with stakeholders and top-level managers
           - together with the agile coaches, building the scrum of scrums development process to scale the development in multiple teams independently
-          - accountable for delivering the project on time.
+          - accountable for delivering the project on time
+          - tech stack: Java, Spring Boot, Cassandra, RabbitMQ, Azure.
 
           
     - role: Development Team Lead
@@ -131,7 +130,8 @@ leadership_experiences:
       details: |
         - Lead a team of 5 international Software Engineers, and 3 quality engineers
         - responsible for facilitating the scrum process
-        - coaching/mentoring team members.
+        - coaching/mentoring team members
+        - tech stack: Java, Spring Boot, Cassandra, RabbitMQ, AWS.
           
 experiences:
     - role: Senior Software Engineer
