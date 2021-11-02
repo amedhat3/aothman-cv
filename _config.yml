@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Ahmed's Resume
+title: Ahmed Othman's Resume
 url: 'https://cv.aothman.com'
 baseurl: '' #change it according to your repository name
 description: Ahmed's has 6+ years of Engineering Leadership experience, he gained this experience from working in top international e-commerce companies like Zalando in Germany and Rakuten in Japan 
