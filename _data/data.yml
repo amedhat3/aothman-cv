@@ -65,7 +65,7 @@ career-profile:
       My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
 
 leadership_experiences:
-    - role: Engineering Manager
+    - role: Software Engineering Manager
       time: March 2020 - Present
       years: 1+ Year
       company: Zalando SE
@@ -82,7 +82,7 @@ leadership_experiences:
           - ensure operational excellence of the systems
           - Tech stack: Scala, Elasticsearch, Kubernetes, AWS
           
-    - role: Engineer Lead
+    - role: Software Engineering Lead
       time: October 2017 - February 2020
       years: 2 years and 4 months
       company: Zalando SE
@@ -101,7 +101,7 @@ leadership_experiences:
           - collaboration with the product managers to build the team roadmap
           - tech stack: Scala, Lucene, Rest APIs, PyTorch, Sagemaker.
           
-    - role: Engineering Lead/Technical Product Owner
+    - role: Software Engineering Lead/Technical Product Owner
       time: November 2015 - July 2017
       years: 1 year and 8 months
       company: Rakuten
