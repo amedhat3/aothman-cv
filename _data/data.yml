@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Software Engineer Manager with a proven track record Engineering Leadership (7 years), and hands-on Software Development (12+ years).
+      Software Engineer Manager with a proven track record in Engineering Leadership (7 years) managing ICs and leads, and hands-on Software Development (12+ years).
       In the past 7 years, I led Software Engineering teams building scalable and reliable Identity and Authentication platform as well as Search Systems for two of the e-commerce giants (Rakuten, Zalando).
     objectives: |
       In love with people diversity and helping people grow and develop their skills.
@@ -72,10 +72,11 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Looking after the Search Experience team, Building Zalando’s product catalog page, including (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result). 
-        My responsibilities include the following
-          - hiring, team building, team members career development (scaled the team from 2 to 5 Engineers, 1 more to hire)
-          - building the team strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
+        Looking after the Search Experience, Building Zalando’s product catalog page, including (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result), 
+        also responsible for the Search Platform which containing (the Search API, Elasticsearch (main data store), Data ingestion pipeline). 
+        My responsibilities include the following:
+          - hiring, team building, team members' career development (scaled one team from 2 to 5 Engineers, 1 more to hire)
+          - building the strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
           - stakeholder happiness, managing dependencies and expectations, building trust with the stakeholders
           - collaboration with product and engineering leaders across the organization
           - the projects' successful delivery with a lean agile development process
@@ -89,7 +90,7 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Worked as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
+        Worked as a Lead Engineer for the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
         the traditional Search Engine features like (Spell-checker, synonyms, NER, strike search, etc) 
         also, building the new machine learning Search Engine which is built using deep learning methods based on historical click data.
         My responsibilities included the following:
@@ -101,7 +102,7 @@ leadership_experiences:
           - collaboration with the product managers to build the team roadmap
           - tech stack: Scala, Lucene, Rest APIs, PyTorch, Sagemaker.
           
-    - role: Software Engineering Lead/Technical Product Owner
+    - role: Technical Product Owner
       time: November 2015 - July 2017
       years: 1 year and 8 months
       company: Rakuten
@@ -128,7 +129,7 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        - Lead a team of 5 international Software Engineers, and 3 quality engineers
+        - Lead a team of 5 Software Engineers, and 3 quality engineers
         - responsible for facilitating the scrum process
         - coaching/mentoring team members
         - tech stack: Java, Spring Boot, Cassandra, RabbitMQ, AWS.
