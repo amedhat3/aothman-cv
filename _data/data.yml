@@ -72,8 +72,8 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Looking after the Search Experience, Building Zalando’s product catalog page which includes (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result), 
-        also responsible for the Search Platform which contains (the Search API, Elasticsearch (main data store), Data ingestion pipeline).
+        Looking after the Search Experience, Building Zalando's product catalog page which includes (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result), 
+        also responsible for the Search Platform which contains (The Search API, Elasticsearch (main data store) and the Data ingestion pipeline).
         My responsibilities include the following:
           - hiring, team building, team members' career development (scaled one team from 2 to 5 Engineers, 1 more to hire)
           - building the strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
@@ -102,7 +102,7 @@ leadership_experiences:
           - collaboration with the product managers to build the team roadmap
           - tech stack: Scala, Lucene, Rest APIs, PyTorch, Sagemaker.
           
-    - role: Technical Product Owner
+    - role: Software Engineering Lead/Technical Product Owner
       time: November 2015 - July 2017
       years: 1 year and 8 months
       company: Rakuten
