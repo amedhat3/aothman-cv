@@ -58,11 +58,11 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Software Engineer Manager with a proven track record in Engineering Leadership (7 years) managing ICs and leads, and hands-on Software Development (12+ years).
+      An Entrepreneur and Software Engineer Manager with a proven track record in Engineering Leadership (7 years) managing Engineers and Managers, and hands-on Software Development (12+ years).
       In the past 7 years, I led Software Engineering teams building scalable and reliable Identity and Authentication platform as well as Search Systems for two of the e-commerce giants (Rakuten, Zalando).
     objectives: |
       In love with people's diversity and helping people grow and develop their skills.
-      My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
+      My passion is driving high positive impact on People and Businesses by building cross-functional teams and developing scalable and reliable software systems.
 
 leadership_experiences:
     - role: Software Engineering Manager
@@ -72,16 +72,16 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Looking after the Search Experience, Building Zalando's product catalog page which includes (the autosuggest in the search bar, the filters, the categories navigation tree, the articles and outfits in the search result), 
-        also responsible for the Search Platform which contains (The Search API, Elasticsearch (main data store) and the Data ingestion pipeline).
+        Looking after the Search Platform teams, Building Zalando's Core Search Engine, One team is responsible for the Search Experience (the backend systems for the catalog page), and the Second team is responsible for the core Search systems (The Search API, Elasticsearch (main data store) and the Data ingestion pipeline).
         My responsibilities include the following:
-          - hiring, team building, team members' career development (scaled one team from 2 to 5 Engineers, 1 more to hire)
+          - hiring, team building, team members' career development
+          - Coaching Engineering Managers, to help them build healthy teams 
           - building the strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
           - stakeholder happiness, managing dependencies and expectations, building trust with the stakeholders
           - collaboration with product and engineering leaders across the organization
           - the projects' successful delivery with a lean agile development process
           - ensure operational excellence of the systems
-          - Tech stack: Scala, Elasticsearch, Kubernetes, AWS
+          - Tech stack: Scala, Python, Elasticsearch, Kubernetes, AWS, BigQuery, Databricks
           
     - role: Software Engineering Lead
       time: October 2017 - February 2020
