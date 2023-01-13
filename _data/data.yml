@@ -42,6 +42,9 @@ sidebar:
     interests:
       - item: Chess
         link:
+      
+      - item: Squash
+        link:
 
       - item: Poker
         link:
@@ -50,6 +53,9 @@ sidebar:
         link:
 
       - item: Outdoor Running
+        link:
+
+      - item: Cycling
         link:
         
       - item: New Cultures Exploration
